@@ -26,4 +26,3 @@ void afficher_tous_centres();
 int obtenir_nombre_centres();
 
 #endif
-
