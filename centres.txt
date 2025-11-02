@@ -1,0 +1,4 @@
+1|Sport Plus|123 Rue des Sports|Paris|150|01 45 67 89 10|contact@sportplus.fr|1
+2|Fit City MODIFIE|999 Nouvelle Adresse|Lyon|250|04 00 00 00 00|nouveau@fitcity.fr|1
+1|Sport Plus|123 Rue des Sports|Paris|150|01 45 67 89 10|contact@sportplus.fr|1
+2|Fit City MODIFIE|999 Nouvelle Adresse|Lyon|250|04 00 00 00 00|nouveau@fitcity.fr|1
